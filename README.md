@@ -11,7 +11,8 @@ Ensure the submission adheres to Zindi’s code review standards.
 <code>accra-mobility-prediction-hackathon.ipynb</code>: Notebook containing the full implementation of the solution (data preprocessing, model training, and evaluation).
 
 <code>requirements.txt</code>: List of dependencies with versions for reproducibility.
-Dataset: Place the dataset file in the directory where the notebook resides. Specify paths in the notebook if needed.
+
+<code>Dataset</code>: Place the dataset file in the directory where the notebook resides. Specify paths in the notebook if needed.
 ## 3. Architecture Diagram
 
 The solution flow:
