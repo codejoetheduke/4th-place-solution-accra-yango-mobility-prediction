@@ -324,7 +324,7 @@ For Kaggle users, ensure the necessary dependencies are added to the environment
 Place the required dataset files in the specified directory (/kaggle/input/yango-accra-mobility-dataset or any directory of your choice).
 In my case I used:
 ```bash
-DATA_PATH = '/kaggle/input/yango-accra-mobility-dataset' # You can change it your directory of choice as long as the dataset files from the competition can be found there
+DATA_PATH = '/kaggle/input/yango-accra-mobility-dataset' # You can change it to your directory of choice as long as the dataset files from the competition can be found there
 ```
 
 Train dataset: Train.csv
