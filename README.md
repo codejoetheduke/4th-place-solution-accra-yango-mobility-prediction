@@ -337,7 +337,7 @@ Graph dataset: Graph.csv
 
 ### 3. Run all cells and save submission csv
 
-##10. Runtime
+## 10. Runtime
 Runtime session is relatively 8m.
 
 # Thank You!
