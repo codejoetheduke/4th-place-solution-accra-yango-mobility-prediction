@@ -335,6 +335,6 @@ Sample Submission: SampleSubmission.csv
 
 Graph dataset: Graph.csv
 
-### 3. Run all cell and save submission csv
+### 3. Run all cells and save submission csv
 
 # Thank You!
