@@ -310,18 +310,18 @@ All code includes appropriate exception handling to manage missing values or inv
 Debug messages and warnings are included where necessary.
 
 
-## 9 How to Run
+## 9. How to Run
 To use this project for prediction, follow these steps:
 
-### 1. Install Dependencies
+#### 1. Install Dependencies
 Ensure the required libraries are installed. You can install them using pip:
 
 ```bash
 pip install -r requirements.txt
 ```
-For Kaggle users, ensure the necessary dependencies are added to the environment.
+For Colab users, ensure the necessary dependencies are added to the environment.
 
-### 2. Set Up the Dataset
+#### 2. Set Up the Dataset
 Place the required dataset files in the specified directory (/kaggle/input/yango-accra-mobility-dataset or any directory of your choice).
 In my case I used:
 ```bash
@@ -336,7 +336,7 @@ Sample Submission: SampleSubmission.csv
 
 Graph dataset: Graph.csv
 
-### 3. Run all cells and save submission csv
+#### 3. Run all cells and save submission csv
 
 ## 10. Runtime
 Runtime session is relatively 8m.
