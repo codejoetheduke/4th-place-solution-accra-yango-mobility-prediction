@@ -1,4 +1,7 @@
 # Accra Mobility Prediction Hackathon Submission
+<img width="100%" height="720" alt="thumb_8672472f-44a6-4d57-8e03-587b7fcb3099" src="https://github.com/user-attachments/assets/53205fc3-00e5-48ca-96d6-2f34112ec0ff" />
+
+
 ## 1. Overview and Objectives
 Solution Purpose: The task involves predicting the average speed of vehicles in Accra based on temporal and spatial features. The solution aims to support urban mobility optimization, reduce traffic congestion, and enhance decision-making for transportation planning.
 ### Objectives:
