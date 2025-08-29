@@ -1,4 +1,4 @@
-# 4th Accra Mobility Prediction Hackathon
+# 4th Place Accra Mobility Prediction Hackathon
 <img width="100%" height="720" alt="thumb_8672472f-44a6-4d57-8e03-587b7fcb3099" src="https://github.com/user-attachments/assets/53205fc3-00e5-48ca-96d6-2f34112ec0ff" />
 
 
